@@ -1,0 +1,2 @@
+/data/srh/Amodel_Data/train/instrument7/images/frame000.jpg frame000
+/data/srh/Amodel_Data/train/instrument7/images/frame001.jpg frame001

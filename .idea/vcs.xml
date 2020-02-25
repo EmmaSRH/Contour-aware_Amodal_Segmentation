@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/labelme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mAP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pycococreator" vcs="Git" />
+  </component>
+</project>

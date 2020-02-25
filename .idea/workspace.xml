@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="015c6fb5-2a1c-4b03-922f-983771434f78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mAP" beforeDir="false" afterPath="$PROJECT_DIR$/mAP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000027.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000032.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000033.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000039.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000042.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000061.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000063.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000068.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000121.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000129.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000170.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000175.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000187.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000241.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000243.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000250.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000256.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000272.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000323.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000332.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000333.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000346.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000363.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000364.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000392.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000423.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000452.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000464.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000480.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000491.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000504.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000515.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000528.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000529.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000549.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000559.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000572.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000584.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000629.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000636.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000645.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000648.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000661.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000663.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000664.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000676.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000713.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000720.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000727.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000733.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000738.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000762.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000768.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000783.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000793.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000799.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000804.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000807.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000822.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000830.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000836.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000837.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000847.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000862.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000876.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000904.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_000999.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001073.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001154.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001175.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001185.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001225.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001239.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001284.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001288.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001289.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001299.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001311.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001321.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001340.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001377.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001397.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001408.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/detection-results/2007_001416.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000027.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000032.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000033.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000039.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000042.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000061.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000063.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000068.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000121.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000129.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000170.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000175.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000187.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000241.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000243.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000250.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000256.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000272.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000323.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000332.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000333.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000346.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000363.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000364.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000392.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000423.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000452.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000464.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000480.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000491.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000504.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000515.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000528.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000529.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000549.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000559.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000572.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000584.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000629.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000636.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000645.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000648.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000661.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000663.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000664.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000676.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000713.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000720.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000727.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000733.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000738.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000762.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000768.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000783.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000793.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000799.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000804.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000807.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000822.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000830.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000836.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000837.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000847.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000862.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000876.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000904.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_000999.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001073.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001154.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001175.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001185.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001225.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001239.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001284.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001288.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001289.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001299.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001311.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001321.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001340.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001377.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001397.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001408.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/ground-truth/2007_001416.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000068.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000170.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000187.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000241.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000243.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000256.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000272.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000323.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000332.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000346.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000363.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000364.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000392.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000423.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000452.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000464.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000480.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000491.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000504.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000515.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000528.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000529.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000549.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000559.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000572.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000584.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000629.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000636.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000645.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000648.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000661.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000663.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000664.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000676.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000713.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000727.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000733.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000738.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000762.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000768.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000783.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000793.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000799.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000804.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000807.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000822.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000830.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000836.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000837.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000847.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000862.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000876.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000904.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_000999.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001073.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001225.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001239.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001284.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001288.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001289.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001299.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001311.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001321.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001340.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001377.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001397.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001408.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/input/images-optional/2007_001416.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mAP/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/mAP/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/endovis/visualize.py" beforeDir="false" afterPath="$PROJECT_DIR$/samples/endovis/visualize.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Amodel_instrument$get_ins_only.coverage" NAME="get_ins_only Coverage Results" MODIFIED="1582515510103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/samples/endovis" />
+    <SUITE FILE_PATH="coverage/Amodel_instrument$ToJson2.coverage" NAME="ToJson2 Coverage Results" MODIFIED="1580312076957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Amodel_instrument$To_splitpic.coverage" NAME="To_splitpic Coverage Results" MODIFIED="1580890230183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Amodel_instrument$get_data_name.coverage" NAME="get_data_name Coverage Results" MODIFIED="1581330007748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pre_tools" />
+    <SUITE FILE_PATH="coverage/Amodel_instrument$find_contur.coverage" NAME="find_contur Coverage Results" MODIFIED="1582025488913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Amodel_instrument$visualize.coverage" NAME="visualize Coverage Results" MODIFIED="1582601743844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/samples/endovis" />
+    <SUITE FILE_PATH="coverage/Amodel_instrument$test.coverage" NAME="test Coverage Results" MODIFIED="1579096993050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Amodel_instrument$ToJson.coverage" NAME="ToJson Coverage Results" MODIFIED="1580204560691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Amodel_instrument$labelme_draw_json__1_.coverage" NAME="labelme_draw_json (1) Coverage Results" MODIFIED="1581923687322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pre_tools" />
+    <SUITE FILE_PATH="coverage/Amodel_instrument$split_same_ins.coverage" NAME="split_same_ins Coverage Results" MODIFIED="1580653543537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Amodel_instrument$caculate_diff.coverage" NAME="caculate_diff Coverage Results" MODIFIED="1581676064311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pre_tools" />
+    <SUITE FILE_PATH="coverage/Amodel_instrument$cut_img.coverage" NAME="cut_img Coverage Results" MODIFIED="1580993601664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Amodel_instrument$labelme_draw_json.coverage" NAME="labelme_draw_json Coverage Results" MODIFIED="1581584558895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Amodel_instrument$evaluate.coverage" NAME="evaluate Coverage Results" MODIFIED="1582029937178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/samples/endovis" />
+    <SUITE FILE_PATH="coverage/Amodel_instrument$main.coverage" NAME="main Coverage Results" MODIFIED="1581588746358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mAP" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1740287424">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="2" />
+          <entry key="png" value="8" />
+          <entry key="py" value="116" />
+          <entry key="sh" value="4" />
+          <entry key="txt" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="4" />
+          <entry key="Image" value="8" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="58" />
+          <entry key="Python" value="108" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="13962" />
+          <entry key="sh" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="14" />
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Python" value="13940" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/endovis/evaluate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="60" column="35" lean-forward="true" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#1626#2116#0" />
+                <element signature="e#4277#6376#0" />
+                <element signature="e#6457#7130#0" />
+                <marker date="1582029639929" expanded="true" signature="345:968" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/samples/endovis/visualize.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="376" column="26" lean-forward="true" selection-start-line="376" selection-start-column="26" selection-end-line="376" selection-end-column="26" />
+              <folding>
+                <element signature="e#177#186#0" expanded="true" />
+                <element signature="e#9767#10064#0" />
+                <element signature="e#10140#11165#0" />
+                <element signature="e#11730#13387#0" />
+                <element signature="e#13544#17348#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/endovis/git_pull.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/endovis/2.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/endovis/get_ins_only.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="55" column="28" lean-forward="true" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1582557296252" expanded="true" signature="956:1033" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pre_tools/gen_video.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/endovis/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="194" selection-start-line="194" selection-end-line="194" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/endovis/model_evaluate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1470">
+              <caret line="358" selection-start-line="358" selection-end-line="358" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#1626#2116#0" />
+                <element signature="e#2205#4214#0" />
+                <element signature="e#4277#6376#0" />
+                <element signature="e#6457#7130#0" />
+                <element signature="e#8285#8754#1" />
+                <element signature="e#10250#10755#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Error: No ground-truth files found!</find>
+      <find>print</find>
+      <find>compute</find>
+      <find>utils</find>
+      <find>compute_recall</find>
+      <find>loss</find>
+      <find>load</find>
+      <find>contour</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/ToJson.py" />
+        <option value="$PROJECT_DIR$/pycococreatortools/pycococreatortools.py" />
+        <option value="$PROJECT_DIR$/ToJson2.py" />
+        <option value="$PROJECT_DIR$/labelme/utils/__init__.py" />
+        <option value="$PROJECT_DIR$/labelme/__init__.py" />
+        <option value="$PROJECT_DIR$/labelme/utils/shape.py" />
+        <option value="$PROJECT_DIR$/split_same_ins.py" />
+        <option value="$PROJECT_DIR$/caculate_diff.py" />
+        <option value="$PROJECT_DIR$/To_splitpic.py" />
+        <option value="$PROJECT_DIR$/labelme_draw_json.py" />
+        <option value="$PROJECT_DIR$/cut_img.py" />
+        <option value="$PROJECT_DIR$/pre_tools/get_data_name.py" />
+        <option value="$PROJECT_DIR$/samples/endovis/train_test.txt" />
+        <option value="$PROJECT_DIR$/samples/endovis/val_test.txt" />
+        <option value="$PROJECT_DIR$/samples/endovis/test_multi.py" />
+        <option value="$PROJECT_DIR$/mrcnn/model1.py" />
+        <option value="$PROJECT_DIR$/samples/endovis/plot_result.py" />
+        <option value="$PROJECT_DIR$/samples/endovis/caculate_dice.py" />
+        <option value="$PROJECT_DIR$/evaluation/test/test_instance_dice.py" />
+        <option value="$PROJECT_DIR$/mAP/main.py" />
+        <option value="$PROJECT_DIR$/pre_tools/caculate_diff.py" />
+        <option value="$PROJECT_DIR$/samples/endovis/test.py" />
+        <option value="$PROJECT_DIR$/samples/endovis/test1.py" />
+        <option value="$PROJECT_DIR$/pre_tools/labelme_draw_json.py" />
+        <option value="$PROJECT_DIR$/samples/endovis/new_loss.py" />
+        <option value="$PROJECT_DIR$/mrcnn/model.py" />
+        <option value="$PROJECT_DIR$/mrcnn/model_new.py" />
+        <option value="$PROJECT_DIR$/mrcnn/utils.py" />
+        <option value="$PROJECT_DIR$/find_contur.py" />
+        <option value="$PROJECT_DIR$/samples/endovis/model_evaluate.py" />
+        <option value="$PROJECT_DIR$/samples/endovis/train.py" />
+        <option value="$PROJECT_DIR$/samples/endovis/gen_video.py" />
+        <option value="$PROJECT_DIR$/samples/endovis/get_ins_only.py" />
+        <option value="$PROJECT_DIR$/samples/endovis/run_network.sh" />
+        <option value="$PROJECT_DIR$/samples/endovis/git_pull.sh" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/samples/endovis/evaluate.py" />
+        <option value="$PROJECT_DIR$/samples/endovis/visualize.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyUnreachableCodeInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Amodel_instrument" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amodel_instrument" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amodel_instrument" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amodel_instrument" type="462c0819:PsiDirectoryNode" />
+              <item name="mrcnn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amodel_instrument" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amodel_instrument" type="462c0819:PsiDirectoryNode" />
+              <item name="samples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amodel_instrument" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amodel_instrument" type="462c0819:PsiDirectoryNode" />
+              <item name="samples" type="462c0819:PsiDirectoryNode" />
+              <item name="endovis" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/keras/layers/core.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.visualize">
+    <configuration name="evaluate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Amodel_instrument" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/samples/endovis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/samples/endovis/evaluate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="find_contur" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Amodel_instrument" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_contur.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_ins_only" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Amodel_instrument" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/samples/endovis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/samples/endovis/get_ins_only.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="labelme_draw_json (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Amodel_instrument" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pre_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pre_tools/labelme_draw_json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="visualize" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Amodel_instrument" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/samples/endovis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/samples/endovis/visualize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.labelme_draw_json (1)" />
+      <item itemvalue="Python.evaluate" />
+      <item itemvalue="Python.find_contur" />
+      <item itemvalue="Python.get_ins_only" />
+      <item itemvalue="Python.visualize" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.visualize" />
+        <item itemvalue="Python.get_ins_only" />
+        <item itemvalue="Python.evaluate" />
+        <item itemvalue="Python.find_contur" />
+        <item itemvalue="Python.labelme_draw_json (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="015c6fb5-2a1c-4b03-922f-983771434f78" name="Default Changelist" comment="" />
+      <created>1578882129900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578882129900</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="960" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18120393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32979977" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21436985" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39929327" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32979977" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32985258" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" weight="0.32985258" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mrcnn/model_new.py</url>
+          <line>1642</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="195" column="37" selection-start-line="195" selection-start-column="37" selection-end-line="195" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mAP/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-593">
+          <caret line="367" lean-forward="true" selection-start-line="367" selection-end-line="367" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/AP_train.txt" />
+    <entry file="file://$PROJECT_DIR$/pre_tools/count.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pre_tools/caculate_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mrcnn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/AP_test.txt" />
+    <entry file="file://$PROJECT_DIR$/samples/endovis/AP_train_1.txt" />
+    <entry file="file://$PROJECT_DIR$/samples/endovis/test1.py" />
+    <entry file="file://$PROJECT_DIR$/mrcnn/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mrcnn/parallel_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pre_tools/labelme_draw_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="91" column="47" selection-start-line="91" selection-start-column="47" selection-end-line="91" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="559" column="4" selection-start-line="559" selection-start-column="4" selection-end-line="559" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/nn_impl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="107" column="4" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="2215" column="4" selection-start-line="2215" selection-start-column="4" selection-end-line="2215" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/AP_test_1.txt" />
+    <entry file="file://$PROJECT_DIR$/samples/endovis/result_train_1.txt" />
+    <entry file="file://$PROJECT_DIR$/samples/endovis/result_train_mrcnn.txt" />
+    <entry file="file://$PROJECT_DIR$/evaluation/dice_calculations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluation/test/test_instance_dice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="76" column="26" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12540">
+          <caret line="849" column="8" selection-start-line="849" selection-start-column="8" selection-end-line="849" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/new_loss.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mrcnn/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9375">
+          <caret line="761" column="16" selection-start-line="761" selection-start-column="16" selection-end-line="761" selection-end-column="16" />
+          <folding>
+            <element signature="e#178#188#0" expanded="true" />
+            <element signature="e#4156#5383#0" />
+            <element signature="e#5427#6176#0" />
+            <element signature="e#6222#6964#0" />
+            <element signature="e#7004#7770#0" />
+            <element signature="e#7816#8130#0" />
+            <element signature="e#8162#8913#0" />
+            <marker date="1582028801539" expanded="true" signature="16124:16126" ph="..." />
+            <marker date="1582028801539" expanded="true" signature="33087:33089" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_contur.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/keras/engine/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8250">
+          <caret line="560" column="60" selection-start-line="560" selection-start-column="60" selection-end-line="560" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/keras/layers/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8655">
+          <caret line="597" column="33" selection-start-line="597" selection-start-column="33" selection-end-line="597" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/keras/engine/topology.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4530">
+          <caret line="318" column="34" selection-start-line="318" selection-start-column="34" selection-end-line="318" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mrcnn/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42600">
+          <caret line="2840" column="12" selection-start-line="2840" selection-start-column="12" selection-end-line="2840" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mrcnn/visualize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="32" column="16" lean-forward="true" selection-end-line="500" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="194" selection-start-line="194" selection-end-line="194" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="105" column="74" lean-forward="true" selection-start-line="102" selection-start-column="4" selection-end-line="105" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mrcnn/model_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="2043" column="25" selection-start-line="2043" selection-start-column="25" selection-end-line="2043" selection-end-column="25" />
+          <folding>
+            <element signature="e#181#190#0" expanded="true" />
+            <element signature="e#750#810#0" />
+            <element signature="e#925#1409#0" />
+            <element signature="e#1456#2133#0" />
+            <element signature="e#2190#2707#0" />
+            <element signature="e#2710#2770#0" />
+            <element signature="e#3069#4567#0" />
+            <element signature="e#4701#6573#0" />
+            <element signature="e#6654#8521#0" />
+            <element signature="e#8712#9470#0" />
+            <element signature="e#9514#10037#0" />
+            <element signature="e#10075#13745#0" />
+            <element signature="e#14057#18794#0" />
+            <element signature="e#18986#20178#0" />
+            <element signature="e#20267#26383#0" />
+            <element signature="e#26428#28739#0" />
+            <element signature="e#28954#33277#0" />
+            <element signature="e#33316#34939#0" />
+            <element signature="e#35167#37093#0" />
+            <element signature="e#37165#38252#0" />
+            <element signature="e#38583#41225#0" />
+            <element signature="e#41354#43667#0" />
+            <element signature="e#43851#44144#0" />
+            <element signature="e#44206#45293#0" />
+            <element signature="e#45367#46462#0" />
+            <element signature="e#46579#47946#0" />
+            <element signature="e#48022#49267#0" />
+            <element signature="e#49345#51033#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/model_evaluate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="358" selection-start-line="358" selection-end-line="358" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1626#2116#0" />
+            <element signature="e#2205#4214#0" />
+            <element signature="e#4277#6376#0" />
+            <element signature="e#6457#7130#0" />
+            <element signature="e#8285#8754#1" />
+            <element signature="e#10250#10755#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/cv2/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="7233" column="4" selection-start-line="7233" selection-start-column="4" selection-end-line="7233" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/gen_video.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pre_tools/gen_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="1632" column="8" selection-start-line="1632" selection-start-column="8" selection-end-line="1632" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/get_ins_only.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="55" column="28" lean-forward="true" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1582557296252" expanded="true" signature="956:1033" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/caculate_dice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret selection-end-line="7" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/matplotlib/patches.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="664" column="8" selection-start-line="664" selection-start-column="8" selection-end-line="664" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/matplotlib/testing/jpl_units/StrConverter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/run_network.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/colorsys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-618" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/git_pull.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="580">
+            <caret line="241" lean-forward="true" selection-start-line="241" selection-end-line="241" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/evaluate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="60" column="35" lean-forward="true" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1626#2116#0" />
+            <element signature="e#4277#6376#0" />
+            <element signature="e#6457#7130#0" />
+            <marker date="1582029639929" expanded="true" signature="345:968" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/endovis/visualize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="376" column="26" lean-forward="true" selection-start-line="376" selection-start-column="26" selection-end-line="376" selection-end-column="26" />
+          <folding>
+            <element signature="e#177#186#0" expanded="true" />
+            <element signature="e#9767#10064#0" />
+            <element signature="e#10140#11165#0" />
+            <element signature="e#11730#13387#0" />
+            <element signature="e#13544#17348#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
