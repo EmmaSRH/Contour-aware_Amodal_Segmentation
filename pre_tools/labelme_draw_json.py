@@ -83,19 +83,19 @@ def json2label(json_file,out_path):
     i = 0
     for mask in lbl:
         print(out_path + frame_name + '_ins_'+ str(i) + '.png')
-        cv2.imwrite(out_path + frame_name + '_ins_'+ str(i) + '.png', mask)
-        # cv2.imwrite(out_path + frame_name + '.png', mask*255)
+        # cv2.imwrite(out_path + frame_name + '_ins_'+ str(i) + '.png', mask)
+        cv2.imwrite(out_path + frame_name + '.png', mask*255)
         i += 1
 
 if __name__ == '__main__':
 
-    ins_path = '/Users/shiwakaga/Downloads/ins9/'
-    name_list = glob.glob(ins_path+'*.json')
-    i = 0
-    for json_file in name_list:
-        out_path = '/Users/shiwakaga/Amodel_Data/test/instrument9/amodel/'
-        i += 1
-        print("第%d个json文件，名字是：" % i, json_file)
-        json2label(json_file,out_path)
+    # ins_path = '/Users/shiwakaga/Desktop/'
+    # name_list = glob.glob(ins_path+'*.json')
+    # i = 0
+    # for json_file in name_list:
+    #     out_path = '/Users/shiwakaga/Amodel_Data/train/instrument5/amodel/'
+    #     i += 1
+    #     print("第%d个json文件，名字是：" % i, json_file)
+    #     json2label(json_file,out_path)
 
-    # json2label('/Users/shiwakaga/Amodel_Data/instrument3/frame010.json', '/Users/shiwakaga/Amodel_Data/instrument3/amodel/')
+    json2label('/Users/shiwakaga/Desktop/frame223_ins_1.json', '/Users/shiwakaga/OUT/output/output_mrcnn/instrument5/')
